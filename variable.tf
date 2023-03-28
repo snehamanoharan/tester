@@ -1,5 +1,5 @@
 variable "region"{
-   Default="us-east-1"
+   default="us-east-1"
 }
  variable "ami"{
    description="ami id value"
