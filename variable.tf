@@ -6,7 +6,7 @@ variable "region"{
    default="ami-00c39f71452c08778"
  }
 
-variable "inst-type"{
+variable "inst_type"{
    default="t2.micro"
 }
 
